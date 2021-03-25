@@ -1,3 +1,3 @@
-def lol:
+def lol():
     print("loool")
 lol()
